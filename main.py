@@ -1,3 +1,4 @@
+# Connor Murphy
 def encoder(input_string):
     new_string = ""
     for char in input_string:
